@@ -1,0 +1,19 @@
+# CSV売上集計ツール
+
+## 概要
+
+CSVファイルを読み込み、
+商品別売上・日別売上を自動集計し、
+Excelレポートを生成するツールです。
+
+## 使用技術
+
+- Python
+- pandas
+- openpyxl
+- matplotlib
+
+## 出力
+
+- report.xlsx
+- sales_chart.png
